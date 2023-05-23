@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Rashid and I enjoy creating things that live on the internet. <br><br>I am a passionate full stack developer and have more than 5 years of industry experience in software design and development. I’m focused on building accessible, human-centered and scalable products for web.<br>
+Hello! My name is Raashid and I enjoy creating things that live on the internet. <br><br>I am a passionate full stack developer and have more than 5 years of industry experience in software design and development. I’m focused on building accessible, human-centered and scalable products for web.<br>
 
 
 # 💻 Tech Stack:
